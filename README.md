@@ -18,7 +18,7 @@ Building the project
 
 Clone the repository:
 
-> git clone https://github.com/kolorobot/spring-boot-thymeleaf
+> git clone https://github.com/cdavid15/spring-boot-thymeleaf
 
 Navigate to the newly created folder:
 
